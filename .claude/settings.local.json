@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Websearch",
+      "Bash(git init)"
+    ]
+  }
+}
